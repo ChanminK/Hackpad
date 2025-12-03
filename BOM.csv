@@ -1,0 +1,12 @@
+Item,Quantity,Description,Notes
+MX Switch,9,MX-compatible mechanical switches,Any type
+Keycaps,9,DSA profile keycaps,Blank or printed
+Diode 1N4148,9,DO-35 through-hole diodes,One per switch
+Seeed XIAO RP2040,1,Microcontroller,Main controller
+EC11 Rotary Encoder,1,EC11 or KY-040 module,Rotary plus push button
+OLED Display 0.91",1,128x32 SSD1306 I2C OLED,GND-VCC-SCL-SDA pin order
+SK6812 MINI-E,4,RGB LEDs,Addressable underglow
+Heatset Insert M3x5x4,6,Brass inserts,For case assembly
+M3 Screws 16mm,6,M3 bolts,For case assembly
+Custom PCB,1,Designed in KiCad,Main board
+3D Printed Case,1,Top and bottom shells,Designed in Fusion360
